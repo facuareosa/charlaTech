@@ -1,0 +1,62 @@
+.header{
+    background-image:linear-gradient(rgba(250,250,250,0.3), rgba(250,250,250,0.3)), url(../assets/img/Fotolia_237516408_Subscription_Monthly_M.jpg) ;
+    background-size: cover;
+    padding-top: 2em;
+}
+.header__container{
+    text-align: center;
+}
+.header__nav{
+
+}
+.header__ul{
+    text-align: center;
+
+}
+.header__li{
+    display: inline-block;
+    margin: 0 1rem 2rem 0;
+}
+.header__btn{
+    color:white;
+    font-size: 1.2rem;
+    background: rgba(242,242,242,0.2);
+    padding: 1rem;
+    border-radius: 10px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.header__btn:hover{
+    background-color: rgb(129, 66, 231);
+    color: black;
+    transition: 300ms;
+}
+.header__text{
+    color:white;
+    text-shadow: 3px 3px 0px black;
+    font-size: 5rem;
+    margin: 3rem;
+    text-transform: uppercase;
+}
+.header__text:nth-child(2){
+    color: black;
+    text-shadow: 3px 3px 0px whitesmoke;
+}
+.header__btn-form{
+    display:inline-block;
+    color:white;
+    font-size: 1.5rem;
+    letter-spacing: 3px;
+    background: rgb(129, 66, 231);
+    padding: 1rem 10rem;
+    border: black solid px;
+    border-radius: 10px;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin: 2rem
+}
+.header__btn-form:hover{
+    transform: scale(0.99);
+    transition: all 300ms;
+    box-shadow: 0 0 5px black;
+}
