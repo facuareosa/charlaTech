@@ -1,0 +1,30 @@
+.main__section-lecturers{
+    background-color: rgb(129, 66, 231);
+}
+.lecturers__container{
+    width:80%;
+    margin: 0 auto;
+    padding: 1rem 0;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.lecturers__card{
+    width: 15rem;
+    height: 25rem;
+    background-color: white;
+    border-radius: 10px;
+    margin: 1rem 1rem
+}
+.card__img{
+
+}
+.card__name{
+
+}
+.card__labor{
+
+}
+.card__description{
+
+}
