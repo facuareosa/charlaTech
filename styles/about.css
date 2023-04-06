@@ -1,0 +1,23 @@
+.about__container{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 80%;
+    margin: 2rem auto;
+    border-bottom: 0.5rem rgb(129, 66, 231) solid;
+    border-top: 0.5rem rgb(129, 66, 231) solid;
+    border-style:dotted;
+}
+.about__title{
+    font-size: 3rem;
+    margin: 1rem 0;
+}
+.about__subtitle{
+    font-size: 2rem;
+    margin: 2rem 0;
+}
+.about__text{
+    font-size: 1.5rem;
+    margin: 1rem 0;
+    line-height: 2;
+}
