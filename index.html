@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="./styles/header.css" />
     <link rel="stylesheet" href="./styles/about.css" />
     <link rel="stylesheet" href="./styles/lecturers.css" />
-    <link rel="stylesheet" href="./styles/form.css">
+    <link rel="stylesheet" href="./styles/form.css" />
     <title>Charla Tech</title>
   </head>
 
@@ -17,10 +17,10 @@
         <nav class="header__nav">
           <ul class="header__ul">
             <li class="header__li">
-              <a href="#" class="header__btn">Sobre</a>
+              <a href="#about" class="header__btn">Sobre</a>
             </li>
             <li class="header__li">
-              <a href="#" class="header__btn">Disertantes</a>
+              <a href="#lecturers" class="header__btn">Disertantes</a>
             </li>
           </ul>
         </nav>
@@ -31,13 +31,13 @@
           <p class="header__text">10 de Abril | Madrid</p>
         </section>
         <section class="header__section-linkForm">
-          <a href="#" class="header__btn-form">Suscribete</a>
+          <a href="#form" class="header__btn-form">Suscribete</a>
         </section>
       </div>
     </header>
 
     <main class="main">
-      <section class="main__section-about about">
+      <section class="main__section-about about" id="about">
         <div class="about__container">
           <h2 class="about__title">
             El papel del Frontend en el desarrollo de aplicaciones modernas
@@ -60,7 +60,7 @@
           </p>
         </div>
       </section>
-      <section class="main__section-lecturers lecturers">
+      <section class="main__section-lecturers lecturers" id="lecturers">
         <div class="lecturers__container">
           <div class="lecturers__description">
             <h3 class="lecturers__title">Disertantes</h3>
@@ -71,75 +71,127 @@
           </div>
 
           <div class="lecturers__card card">
-            <img src="./assets/img/placeholder.jpeg" alt="fotoDisertante1" class="card__img">
+            <img
+              src="./assets/img/placeholder.jpeg"
+              alt="fotoDisertante1"
+              class="card__img"
+            />
             <h4 class="card__name">Rodrigo Gonzalez</h4>
             <p class="card__labor">Desarrollador de front-end</p>
-            <p class="card__description">El inicio en este mundo. El estudio y la busqueda del primer empleo</p>
+            <p class="card__description">
+              El inicio en este mundo. El estudio y la busqueda del primer
+              empleo
+            </p>
           </div>
 
           <div class="lecturers__card card">
-            <img src="./assets/img/placeholder.jpeg" alt="fotoDisertante1" class="card__img">
+            <img
+              src="./assets/img/placeholder.jpeg"
+              alt="fotoDisertante1"
+              class="card__img"
+            />
             <h4 class="card__name">Ana Torres</h4>
             <p class="card__labor">Desarrolladora de front-end</p>
-            <p class="card__description">10 consejos para mejorar la accesibilidad en tus sitios web</p>
+            <p class="card__description">
+              10 consejos para mejorar la accesibilidad en tus sitios web
+            </p>
           </div>
 
           <div class="lecturers__card card">
-            <img src="./assets/img/placeholder.jpeg" alt="fotoDisertante2" class="card__img">
+            <img
+              src="./assets/img/placeholder.jpeg"
+              alt="fotoDisertante2"
+              class="card__img"
+            />
             <h4 class="card__name">Miguel Gómez</h4>
             <p class="card__labor">Arquitecto de software</p>
-            <p class="card__description">Cómo diseñar sistemas escalables con microservicios</p>
+            <p class="card__description">
+              Cómo diseñar sistemas escalables con microservicios
+            </p>
           </div>
 
           <div class="lecturers__card card">
-            <img src="./assets/img/placeholder.jpeg" alt="fotoDisertante3" class="card__img">
+            <img
+              src="./assets/img/placeholder.jpeg"
+              alt="fotoDisertante3"
+              class="card__img"
+            />
             <h4 class="card__name">Laura García</h4>
             <p class="card__labor">Ingeniera de datos</p>
-            <p class="card__description">Introducción a Apache Spark: procesamiento de datos a gran escala</p>
+            <p class="card__description">
+              Introducción a Apache Spark: procesamiento de datos a gran escala
+            </p>
           </div>
 
           <div class="lecturers__card card">
-            <img src="./assets/img/placeholder.jpeg" alt="fotoDisertante4" class="card__img">
+            <img
+              src="./assets/img/placeholder.jpeg"
+              alt="fotoDisertante4"
+              class="card__img"
+            />
             <h4 class="card__name">Carlos Fernández</h4>
             <p class="card__labor">Desarrollador full-stack</p>
-            <p class="card__description">Cómo optimizar el rendimiento de aplicaciones web utilizando React</p>
+            <p class="card__description">
+              Cómo optimizar el rendimiento de aplicaciones web utilizando React
+            </p>
           </div>
 
           <div class="lecturers__card card">
-            <img src="./assets/img/placeholder.jpeg" alt="fotoDisertante5" class="card__img">
+            <img
+              src="./assets/img/placeholder.jpeg"
+              alt="fotoDisertante5"
+              class="card__img"
+            />
             <h4 class="card__name">Marta Sánchez</h4>
             <p class="card__labor">Especialista en seguridad informática</p>
-            <p class="card__description">Cómo proteger tus aplicaciones web contra ataques XSS y SQL injection</p>
+            <p class="card__description">
+              Cómo proteger tus aplicaciones web contra ataques XSS y SQL
+              injection
+            </p>
           </div>
 
           <div class="lecturers__card card">
-            <img src="./assets/img/placeholder.jpeg" alt="fotoDisertante6" class="card__img">
+            <img
+              src="./assets/img/placeholder.jpeg"
+              alt="fotoDisertante6"
+              class="card__img"
+            />
             <h4 class="card__name">José Pérez</h4>
             <p class="card__labor">Desarrollador de aplicaciones móviles</p>
-            <p class="card__description">Desarrollo de aplicaciones multiplataforma con React Native</p>
+            <p class="card__description">
+              Desarrollo de aplicaciones multiplataforma con React Native
+            </p>
           </div>
 
           <div class="lecturers__card card">
-            <img src="./assets/img/placeholder.jpeg" alt="fotoDisertante7" class="card__img">
+            <img
+              src="./assets/img/placeholder.jpeg"
+              alt="fotoDisertante7"
+              class="card__img"
+            />
             <h4 class="card__name">María Ruiz</h4>
             <p class="card__labor">Científica de datos</p>
-            <p class="card__description">Introducción al aprendizaje automático: cómo entrenar un modelo de regresión lineal</p>
+            <p class="card__description">
+              Introducción al aprendizaje automático: cómo entrenar un modelo de
+              regresión lineal
+            </p>
           </div>
         </div>
       </section>
-      <section class="main__section-form">
+      <section class="main__section-form" id="form">
+        <h5 class="form__title">Formulario de inscripción</h5>
         <div class="form__container">
           <div class="form__item">
-            <input type="text" class="form__name" required>
-            <label class="form__subject" placeholer=" ">Nombre</label>
+            <input type="text" class="form__input" placeholder=" " required>
+            <label class="form__subject">Nombre</label>
             <span class="form__line"></span>
           </div>
           <div class="form__item">
-            <input type="email" class="form__email" required>
-            <label class="form__subject" placeholder=" ">E-mail</label>
+            <input type="email" class="form__input" placeholder=" " required>
+            <label class="form__subject">E-mail</label>
             <span class="form__line"></span>
           </div>
-            <button type="submit" class="form__btn"></button>
+          <button type="submit" class="form__btn">Inscribirme</button>
         </div>
       </section>
     </main>
