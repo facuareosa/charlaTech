@@ -73,6 +73,12 @@
     margin: 2rem 0;
     max-width: 600px;
 }
+.form__btn:hover{
+    cursor: pointer;
+}
+.form__btn:active{
+    transform: scale(0.99);
+}
 
 @media (max-width: 767px){
     .form__btn{
