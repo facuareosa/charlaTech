@@ -1,0 +1,27 @@
+.form__container{
+    width: 80%;
+    margin: 0 auto;
+    display:flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+
+}
+.form__item{
+
+}
+.form__subject{
+
+}
+.form__line{
+    
+}
+.form__name{
+
+}
+.form__email{
+
+}
+.form__btn{
+
+}
