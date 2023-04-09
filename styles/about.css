@@ -1,4 +1,5 @@
 .about__container{
+    font-family: 'Chivo Mono', monospace;
     display: flex;
     flex-direction: column;
     text-align: center;

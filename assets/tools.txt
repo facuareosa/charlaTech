@@ -1,2 +1,2 @@
 Color violeta = rgb(129, 66, 231)
-fuente = 
+ font-family = 'Chivo Mono', monospace

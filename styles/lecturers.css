@@ -2,6 +2,7 @@
     background-color: rgb(129, 66, 231);
 }
 .lecturers__container{
+    font-family: 'Chivo Mono', monospace;
     width:80%;
     margin: 0 auto;
     padding: 1rem 0;
