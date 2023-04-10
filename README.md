@@ -34,8 +34,9 @@
 <p>For this project, I decided to use the BEM methodology to continue practicing. Although this is not a project that requires excessive scalability, this methodology also helps with code structuring and understanding.</p>
 <p>Next, I will provide a couple of images to compare what was proposed by Alura Latam and the visual and code modifications made.</p>
 
-![image](https://user-images.githubusercontent.com/116155602/230868795-af002a51-b5c0-4381-ac36-55061f0659b9.png)
-https://live.staticflickr.com/65535/52806717418_ab3523bd8e_b.jpg
+![image](https://live.staticflickr.com/65535/52806526404_32464e4517_b.jpg)
+![image](https://live.staticflickr.com/65535/52806681240_90c2d69e79_b.jpg)
+![image](https://live.staticflickr.com/65535/52806717418_ab3523bd8e_b.jpg)
 
 <h2 align="center">Redes Sociales</h2>
 <p align="center">
