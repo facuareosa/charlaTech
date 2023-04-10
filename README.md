@@ -24,15 +24,15 @@
 <br>
 
 <h2 align="center">Descripción</h2>
-<p>Proyecto final del curso de frontend con AluraLatam, el consistia en crear una pagina web informativa sobre una conferencia.</p>
-<p>Decidí desde el primer momento ir un poco mas allá y crear una especie de copycut, escribiendo el codigo desde cero y cambiando un poco el estilo de la pagina.</p>
-<p>Para este proyecto decidí utilizar la metodologia BEM para seguir practicando. Si bien no es un proyecto que necesite una excesiva escalabilidad, esta metodologia tambien ayuda a la estructuracion del codigo y a la comprension del mismo.</p>
-<p>A continuacion pondre un par de imagenes para que se pueda comparar lo propuesto por Alura Latam y las modificaciones tanto visuales como de codigo</p>
+<p>Proyecto final del curso de frontend con AluraLatam, el mismo consistía en crear una página web informativa sobre una conferencia.</p>
+<p>Decidí desde el primer momento ir un poco más allá y crear una especie de copycut, escribiendo el código desde cero y cambiando un poco el estilo de la página.</p>
+<p>Para este proyecto decidí utilizar la metodología BEM para seguir practicando. Si bien no es un proyecto que necesite una excesiva escalabilidad, esta metodología también ayuda a la estructuración del código y a la comprensión del mismo.</p>
+<p>A continuación pondré un par de imágenes para que se pueda comparar lo propuesto por AluraLatam y las modificaciones tanto visuales como de código.</p>
 
 <p>Final project for the frontend course with AluraLatam, it consisted of creating an informative web page about a conference.</p>
-<p>From the beginning, I decided to go a little further and create a kind of copycut, writing the code from scratch and changing the style of the page a bit.</p>
+<p>From the beginning I decided to go a little further and create a kind of copycut, writing the code from scratch and changing the style of the page a bit.</p>
 <p>For this project, I decided to use the BEM methodology to continue practicing. Although this is not a project that requires excessive scalability, this methodology also helps with code structuring and understanding.</p>
-<p>Next, I will provide a couple of images to compare what was proposed by Alura Latam and the visual and code modifications made.</p>
+<p>Next, I will provide a couple of images to compare what was proposed by AluraLatam and the visual and code modifications made.</p>
 
 ![image](https://live.staticflickr.com/65535/52806526404_32464e4517_b.jpg)
 ![image](https://live.staticflickr.com/65535/52806681240_90c2d69e79_b.jpg)
