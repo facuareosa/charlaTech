@@ -48,7 +48,7 @@
 }
 .form__input:focus ~ .form__line,
 .form__input:not(:placeholder-shown) ~ .form__line{
-    transform: scale(1);
+    transform: scale(1.1);
 }
 .form__input{
     width: 100%;
